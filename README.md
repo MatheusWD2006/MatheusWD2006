@@ -2,7 +2,7 @@
 
 🚀 **Estudante de Ciência da Computação | Desenvolvedor Backend**  
 
-Sou totalmente focado em **desenvolvimento backend**,  e **arquitetura de software**.  
+Sou focado em **desenvolvimento backend**.  
 Atualmente estudo React e APIs RESTful para react. 
 
 
@@ -11,7 +11,7 @@ Atualmente estudo React e APIs RESTful para react.
     <img src="https://img.shields.io/badge/GitHub-MatheusWD2006-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/matheus-witte-ditz-50b7153b4">
+  <a href="https://www.linkedin.com/in/matheus-witte-ditz">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus-Witte-Ditz-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
