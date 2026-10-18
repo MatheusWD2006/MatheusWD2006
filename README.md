@@ -6,15 +6,9 @@ Sou focado em **desenvolvimento backend**.
 Atualmente estudo React e APIs RESTful para react. 
 
 
-<p align="left">
-  <a href="https://github.com/MatheusWD2006">
-    <img src="https://img.shields.io/badge/GitHub-MatheusWD2006-181717?style=for-the-badge&logo=github" />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusWD2006)
 
-  <a href="https://www.linkedin.com/in/matheus-witte-ditz">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus-Witte-Ditz-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-witte-ditz/)
 
 
 
